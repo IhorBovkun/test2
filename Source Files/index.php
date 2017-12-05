@@ -4,6 +4,8 @@
 
 // 1 Common settings
 // Git Changes
+// HELLO
+
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
 
