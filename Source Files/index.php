@@ -4,8 +4,7 @@
 
 // 1 Common settings
 // Git Changes
-// HELLO
-// BAR BAR
+// BAZ BAZ
 
 ini_set('display_errors', 1);
 error_reporting(E_ALL);
